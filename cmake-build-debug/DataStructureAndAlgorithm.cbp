@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DataStructureAndAlgorithm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStructureAndAlgorithm">
+				<Option output="D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug/DataStructureAndAlgorithm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 DataStructureAndAlgorithm"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStructureAndAlgorithm/fast">
+				<Option output="D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug/DataStructureAndAlgorithm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 DataStructureAndAlgorithm/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LatinSquareSingleLinkedCircularList.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LatinSquareSingleLinkedCircularList.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LinkList.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LinkList.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LinkedListTest.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LinkedListTest.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/MagicCards.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/MagicCards.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/MagicCardsSingleLinkedCircularList.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/MagicCardsSingleLinkedCircularList.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/SequenceStackTest.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/SequenceStackTest.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Stack.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Stack.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/main.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

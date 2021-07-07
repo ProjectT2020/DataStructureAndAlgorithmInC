@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.c
+stdio.h
+-
+ctype.h
+-
+stdlib.h
+-
+ReversePolishNotationCalculator.h
+D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.h
+Stack.h
+D:/Repository/Projects/DataStructureAndAlgorithm/Stack.h
+
+D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.h
+
+D:/Repository/Projects/DataStructureAndAlgorithm/Stack.h
+
