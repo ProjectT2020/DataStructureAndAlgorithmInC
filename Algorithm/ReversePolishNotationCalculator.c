@@ -6,7 +6,7 @@
 #include <ctype.h>
 #include <stdlib.h>
 #include "ReversePolishNotationCalculator.h"
-#include "Stack.h"
+#include "../DataStructure/Stack.h"
 
 int ReversePolishNotationCalculator() {
     SequenceStack sequenceStack = (SequenceStack) malloc(sizeof(SequenceStackStruct));

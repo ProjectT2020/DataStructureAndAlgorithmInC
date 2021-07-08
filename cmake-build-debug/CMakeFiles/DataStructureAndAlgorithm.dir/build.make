@@ -60,23 +60,23 @@ include CMakeFiles\DataStructureAndAlgorithm.dir\progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
 
-CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.obj: ..\MagicCards.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/MagicCards.c.obj"
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.obj: ..\Algorithm\MagicCards.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/MagicCards.c.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\MagicCards.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\MagicCards.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/MagicCards.c.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\MagicCards.c
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/MagicCards.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\MagicCards.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/MagicCards.c.s"
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/MagicCards.c.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\MagicCards.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\MagicCards.c
 <<
 
 CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
@@ -98,137 +98,137 @@ CMakeFiles\DataStructureAndAlgorithm.dir\main.c.s: cmake_force
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\main.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\main.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.obj: ..\LinkedListTest.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/LinkedListTest.c.obj"
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.obj: ..\Test\LinkedListTest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Test/LinkedListTest.c.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\LinkedListTest.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Test\LinkedListTest.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/LinkedListTest.c.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\LinkedListTest.c
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Test/LinkedListTest.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Test\LinkedListTest.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/LinkedListTest.c.s"
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Test/LinkedListTest.c.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\LinkedListTest.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Test\LinkedListTest.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.obj: ..\LinkList.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/LinkList.c.obj"
+CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.obj: ..\DataStructure\LinkList.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/DataStructure/LinkList.c.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\LinkList.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\DataStructure\LinkList.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/LinkList.c.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\LinkList.c
+CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/DataStructure/LinkList.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\DataStructure\LinkList.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/LinkList.c.s"
+CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/DataStructure/LinkList.c.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\LinkList.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\DataStructure\LinkList.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.obj: ..\MagicCardsSingleLinkedCircularList.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/MagicCardsSingleLinkedCircularList.c.obj"
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.obj: ..\Algorithm\MagicCardsSingleLinkedCircularList.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/MagicCardsSingleLinkedCircularList.c.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\MagicCardsSingleLinkedCircularList.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\MagicCardsSingleLinkedCircularList.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/MagicCardsSingleLinkedCircularList.c.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\MagicCardsSingleLinkedCircularList.c
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/MagicCardsSingleLinkedCircularList.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\MagicCardsSingleLinkedCircularList.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/MagicCardsSingleLinkedCircularList.c.s"
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/MagicCardsSingleLinkedCircularList.c.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\MagicCardsSingleLinkedCircularList.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\MagicCardsSingleLinkedCircularList.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.obj: ..\LatinSquareSingleLinkedCircularList.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/LatinSquareSingleLinkedCircularList.c.obj"
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.obj: ..\Algorithm\LatinSquareSingleLinkedCircularList.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/LatinSquareSingleLinkedCircularList.c.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\LatinSquareSingleLinkedCircularList.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\LatinSquareSingleLinkedCircularList.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/LatinSquareSingleLinkedCircularList.c.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\LatinSquareSingleLinkedCircularList.c
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/LatinSquareSingleLinkedCircularList.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\LatinSquareSingleLinkedCircularList.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/LatinSquareSingleLinkedCircularList.c.s"
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/LatinSquareSingleLinkedCircularList.c.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\LatinSquareSingleLinkedCircularList.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\LatinSquareSingleLinkedCircularList.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.obj: ..\Stack.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Stack.c.obj"
+CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.obj: ..\DataStructure\Stack.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/DataStructure/Stack.c.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Stack.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\DataStructure\Stack.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Stack.c.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Stack.c
+CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/DataStructure/Stack.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\DataStructure\Stack.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Stack.c.s"
+CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/DataStructure/Stack.c.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Stack.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\DataStructure\Stack.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.obj: ..\ReversePolishNotationCalculator.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/ReversePolishNotationCalculator.c.obj"
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.obj: ..\Algorithm\ReversePolishNotationCalculator.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/ReversePolishNotationCalculator.c.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\ReversePolishNotationCalculator.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\ReversePolishNotationCalculator.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/ReversePolishNotationCalculator.c.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\ReversePolishNotationCalculator.c
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/ReversePolishNotationCalculator.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\ReversePolishNotationCalculator.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/ReversePolishNotationCalculator.c.s"
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/ReversePolishNotationCalculator.c.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\ReversePolishNotationCalculator.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\ReversePolishNotationCalculator.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.obj: ..\SequenceStackTest.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/SequenceStackTest.c.obj"
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.obj: ..\Test\SequenceStackTest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Test/SequenceStackTest.c.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\SequenceStackTest.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Test\SequenceStackTest.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/SequenceStackTest.c.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\SequenceStackTest.c
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Test/SequenceStackTest.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Test\SequenceStackTest.c
 <<
 
-CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/SequenceStackTest.c.s"
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Test/SequenceStackTest.c.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\SequenceStackTest.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Test\SequenceStackTest.c
 <<
 
 CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
@@ -269,37 +269,100 @@ CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.s: cmake_force
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Commons\Show.c
 <<
 
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.obj: ..\Test\EightQueensPuzzleTest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Test/EightQueensPuzzleTest.c.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Test\EightQueensPuzzleTest.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Test/EightQueensPuzzleTest.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Test\EightQueensPuzzleTest.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Test/EightQueensPuzzleTest.c.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Test\EightQueensPuzzleTest.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.obj: ..\Test\MagicCardsSingleLinkedCircularListTest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Test/MagicCardsSingleLinkedCircularListTest.c.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Test\MagicCardsSingleLinkedCircularListTest.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Test/MagicCardsSingleLinkedCircularListTest.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Test\MagicCardsSingleLinkedCircularListTest.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Test/MagicCardsSingleLinkedCircularListTest.c.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Test\MagicCardsSingleLinkedCircularListTest.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.obj: ..\Algorithm\KnuthMorrisPrattAlgorithm.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/KnuthMorrisPrattAlgorithm.c.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\KnuthMorrisPrattAlgorithm.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/KnuthMorrisPrattAlgorithm.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\KnuthMorrisPrattAlgorithm.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/KnuthMorrisPrattAlgorithm.c.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\KnuthMorrisPrattAlgorithm.c
+<<
+
 # Object files for target DataStructureAndAlgorithm
 DataStructureAndAlgorithm_OBJECTS = \
-"CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.obj" \
 "CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj" \
-"CMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.obj" \
-"CMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.obj" \
-"CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.obj" \
-"CMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.obj" \
-"CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.obj" \
-"CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.obj" \
-"CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.obj" \
 "CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj" \
-"CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj"
+"CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.obj"
 
 # External object files for target DataStructureAndAlgorithm
 DataStructureAndAlgorithm_EXTERNAL_OBJECTS =
 
-DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.obj
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj
-DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.obj
-DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.obj
-DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.obj
-DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.obj
-DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.obj
-DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.obj
-DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.obj
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.obj
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\build.make
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking C executable DataStructureAndAlgorithm.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking C executable DataStructureAndAlgorithm.exe"
 	"D:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\DataStructureAndAlgorithm.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\DataStructureAndAlgorithm.dir\objects1.rsp @<<
  /out:DataStructureAndAlgorithm.exe /implib:DataStructureAndAlgorithm.lib /pdb:D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\DataStructureAndAlgorithm.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

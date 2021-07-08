@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 #include "LatinSquareSingleLinkedCircularList.h"
-#include "LinkList.h"
+#include "../DataStructure/LinkList.h"
 
 void LatinSquareSingleLinkedCircularList() {
     int n;

@@ -153,6 +153,141 @@ Algorithm\EightQueensPuzzle.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.s
 .PHONY : Algorithm\EightQueensPuzzle.c.s
 
+Algorithm\KnuthMorrisPrattAlgorithm.obj: Algorithm\KnuthMorrisPrattAlgorithm.c.obj
+
+.PHONY : Algorithm\KnuthMorrisPrattAlgorithm.obj
+
+# target to build an object file
+Algorithm\KnuthMorrisPrattAlgorithm.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.obj
+.PHONY : Algorithm\KnuthMorrisPrattAlgorithm.c.obj
+
+Algorithm\KnuthMorrisPrattAlgorithm.i: Algorithm\KnuthMorrisPrattAlgorithm.c.i
+
+.PHONY : Algorithm\KnuthMorrisPrattAlgorithm.i
+
+# target to preprocess a source file
+Algorithm\KnuthMorrisPrattAlgorithm.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.i
+.PHONY : Algorithm\KnuthMorrisPrattAlgorithm.c.i
+
+Algorithm\KnuthMorrisPrattAlgorithm.s: Algorithm\KnuthMorrisPrattAlgorithm.c.s
+
+.PHONY : Algorithm\KnuthMorrisPrattAlgorithm.s
+
+# target to generate assembly for a file
+Algorithm\KnuthMorrisPrattAlgorithm.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.s
+.PHONY : Algorithm\KnuthMorrisPrattAlgorithm.c.s
+
+Algorithm\LatinSquareSingleLinkedCircularList.obj: Algorithm\LatinSquareSingleLinkedCircularList.c.obj
+
+.PHONY : Algorithm\LatinSquareSingleLinkedCircularList.obj
+
+# target to build an object file
+Algorithm\LatinSquareSingleLinkedCircularList.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.obj
+.PHONY : Algorithm\LatinSquareSingleLinkedCircularList.c.obj
+
+Algorithm\LatinSquareSingleLinkedCircularList.i: Algorithm\LatinSquareSingleLinkedCircularList.c.i
+
+.PHONY : Algorithm\LatinSquareSingleLinkedCircularList.i
+
+# target to preprocess a source file
+Algorithm\LatinSquareSingleLinkedCircularList.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.i
+.PHONY : Algorithm\LatinSquareSingleLinkedCircularList.c.i
+
+Algorithm\LatinSquareSingleLinkedCircularList.s: Algorithm\LatinSquareSingleLinkedCircularList.c.s
+
+.PHONY : Algorithm\LatinSquareSingleLinkedCircularList.s
+
+# target to generate assembly for a file
+Algorithm\LatinSquareSingleLinkedCircularList.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\LatinSquareSingleLinkedCircularList.c.s
+.PHONY : Algorithm\LatinSquareSingleLinkedCircularList.c.s
+
+Algorithm\MagicCards.obj: Algorithm\MagicCards.c.obj
+
+.PHONY : Algorithm\MagicCards.obj
+
+# target to build an object file
+Algorithm\MagicCards.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.obj
+.PHONY : Algorithm\MagicCards.c.obj
+
+Algorithm\MagicCards.i: Algorithm\MagicCards.c.i
+
+.PHONY : Algorithm\MagicCards.i
+
+# target to preprocess a source file
+Algorithm\MagicCards.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.i
+.PHONY : Algorithm\MagicCards.c.i
+
+Algorithm\MagicCards.s: Algorithm\MagicCards.c.s
+
+.PHONY : Algorithm\MagicCards.s
+
+# target to generate assembly for a file
+Algorithm\MagicCards.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.s
+.PHONY : Algorithm\MagicCards.c.s
+
+Algorithm\MagicCardsSingleLinkedCircularList.obj: Algorithm\MagicCardsSingleLinkedCircularList.c.obj
+
+.PHONY : Algorithm\MagicCardsSingleLinkedCircularList.obj
+
+# target to build an object file
+Algorithm\MagicCardsSingleLinkedCircularList.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.obj
+.PHONY : Algorithm\MagicCardsSingleLinkedCircularList.c.obj
+
+Algorithm\MagicCardsSingleLinkedCircularList.i: Algorithm\MagicCardsSingleLinkedCircularList.c.i
+
+.PHONY : Algorithm\MagicCardsSingleLinkedCircularList.i
+
+# target to preprocess a source file
+Algorithm\MagicCardsSingleLinkedCircularList.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.i
+.PHONY : Algorithm\MagicCardsSingleLinkedCircularList.c.i
+
+Algorithm\MagicCardsSingleLinkedCircularList.s: Algorithm\MagicCardsSingleLinkedCircularList.c.s
+
+.PHONY : Algorithm\MagicCardsSingleLinkedCircularList.s
+
+# target to generate assembly for a file
+Algorithm\MagicCardsSingleLinkedCircularList.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.s
+.PHONY : Algorithm\MagicCardsSingleLinkedCircularList.c.s
+
+Algorithm\ReversePolishNotationCalculator.obj: Algorithm\ReversePolishNotationCalculator.c.obj
+
+.PHONY : Algorithm\ReversePolishNotationCalculator.obj
+
+# target to build an object file
+Algorithm\ReversePolishNotationCalculator.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.obj
+.PHONY : Algorithm\ReversePolishNotationCalculator.c.obj
+
+Algorithm\ReversePolishNotationCalculator.i: Algorithm\ReversePolishNotationCalculator.c.i
+
+.PHONY : Algorithm\ReversePolishNotationCalculator.i
+
+# target to preprocess a source file
+Algorithm\ReversePolishNotationCalculator.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.i
+.PHONY : Algorithm\ReversePolishNotationCalculator.c.i
+
+Algorithm\ReversePolishNotationCalculator.s: Algorithm\ReversePolishNotationCalculator.c.s
+
+.PHONY : Algorithm\ReversePolishNotationCalculator.s
+
+# target to generate assembly for a file
+Algorithm\ReversePolishNotationCalculator.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.s
+.PHONY : Algorithm\ReversePolishNotationCalculator.c.s
+
 Commons\Show.obj: Commons\Show.c.obj
 
 .PHONY : Commons\Show.obj
@@ -180,221 +315,167 @@ Commons\Show.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.s
 .PHONY : Commons\Show.c.s
 
-LatinSquareSingleLinkedCircularList.obj: LatinSquareSingleLinkedCircularList.c.obj
+DataStructure\LinkList.obj: DataStructure\LinkList.c.obj
 
-.PHONY : LatinSquareSingleLinkedCircularList.obj
-
-# target to build an object file
-LatinSquareSingleLinkedCircularList.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.obj
-.PHONY : LatinSquareSingleLinkedCircularList.c.obj
-
-LatinSquareSingleLinkedCircularList.i: LatinSquareSingleLinkedCircularList.c.i
-
-.PHONY : LatinSquareSingleLinkedCircularList.i
-
-# target to preprocess a source file
-LatinSquareSingleLinkedCircularList.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.i
-.PHONY : LatinSquareSingleLinkedCircularList.c.i
-
-LatinSquareSingleLinkedCircularList.s: LatinSquareSingleLinkedCircularList.c.s
-
-.PHONY : LatinSquareSingleLinkedCircularList.s
-
-# target to generate assembly for a file
-LatinSquareSingleLinkedCircularList.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.s
-.PHONY : LatinSquareSingleLinkedCircularList.c.s
-
-LinkList.obj: LinkList.c.obj
-
-.PHONY : LinkList.obj
+.PHONY : DataStructure\LinkList.obj
 
 # target to build an object file
-LinkList.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.obj
-.PHONY : LinkList.c.obj
+DataStructure\LinkList.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.obj
+.PHONY : DataStructure\LinkList.c.obj
 
-LinkList.i: LinkList.c.i
+DataStructure\LinkList.i: DataStructure\LinkList.c.i
 
-.PHONY : LinkList.i
+.PHONY : DataStructure\LinkList.i
 
 # target to preprocess a source file
-LinkList.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.i
-.PHONY : LinkList.c.i
+DataStructure\LinkList.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.i
+.PHONY : DataStructure\LinkList.c.i
 
-LinkList.s: LinkList.c.s
+DataStructure\LinkList.s: DataStructure\LinkList.c.s
 
-.PHONY : LinkList.s
+.PHONY : DataStructure\LinkList.s
 
 # target to generate assembly for a file
-LinkList.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\LinkList.c.s
-.PHONY : LinkList.c.s
+DataStructure\LinkList.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\LinkList.c.s
+.PHONY : DataStructure\LinkList.c.s
 
-LinkedListTest.obj: LinkedListTest.c.obj
+DataStructure\Stack.obj: DataStructure\Stack.c.obj
 
-.PHONY : LinkedListTest.obj
+.PHONY : DataStructure\Stack.obj
 
 # target to build an object file
-LinkedListTest.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.obj
-.PHONY : LinkedListTest.c.obj
+DataStructure\Stack.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.obj
+.PHONY : DataStructure\Stack.c.obj
 
-LinkedListTest.i: LinkedListTest.c.i
+DataStructure\Stack.i: DataStructure\Stack.c.i
 
-.PHONY : LinkedListTest.i
+.PHONY : DataStructure\Stack.i
 
 # target to preprocess a source file
-LinkedListTest.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.i
-.PHONY : LinkedListTest.c.i
+DataStructure\Stack.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.i
+.PHONY : DataStructure\Stack.c.i
 
-LinkedListTest.s: LinkedListTest.c.s
+DataStructure\Stack.s: DataStructure\Stack.c.s
 
-.PHONY : LinkedListTest.s
+.PHONY : DataStructure\Stack.s
 
 # target to generate assembly for a file
-LinkedListTest.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.s
-.PHONY : LinkedListTest.c.s
+DataStructure\Stack.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\DataStructure\Stack.c.s
+.PHONY : DataStructure\Stack.c.s
 
-MagicCards.obj: MagicCards.c.obj
+Test\EightQueensPuzzleTest.obj: Test\EightQueensPuzzleTest.c.obj
 
-.PHONY : MagicCards.obj
+.PHONY : Test\EightQueensPuzzleTest.obj
 
 # target to build an object file
-MagicCards.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.obj
-.PHONY : MagicCards.c.obj
+Test\EightQueensPuzzleTest.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.obj
+.PHONY : Test\EightQueensPuzzleTest.c.obj
 
-MagicCards.i: MagicCards.c.i
+Test\EightQueensPuzzleTest.i: Test\EightQueensPuzzleTest.c.i
 
-.PHONY : MagicCards.i
+.PHONY : Test\EightQueensPuzzleTest.i
 
 # target to preprocess a source file
-MagicCards.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.i
-.PHONY : MagicCards.c.i
+Test\EightQueensPuzzleTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.i
+.PHONY : Test\EightQueensPuzzleTest.c.i
 
-MagicCards.s: MagicCards.c.s
+Test\EightQueensPuzzleTest.s: Test\EightQueensPuzzleTest.c.s
 
-.PHONY : MagicCards.s
+.PHONY : Test\EightQueensPuzzleTest.s
 
 # target to generate assembly for a file
-MagicCards.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.s
-.PHONY : MagicCards.c.s
+Test\EightQueensPuzzleTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.s
+.PHONY : Test\EightQueensPuzzleTest.c.s
 
-MagicCardsSingleLinkedCircularList.obj: MagicCardsSingleLinkedCircularList.c.obj
+Test\LinkedListTest.obj: Test\LinkedListTest.c.obj
 
-.PHONY : MagicCardsSingleLinkedCircularList.obj
+.PHONY : Test\LinkedListTest.obj
 
 # target to build an object file
-MagicCardsSingleLinkedCircularList.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.obj
-.PHONY : MagicCardsSingleLinkedCircularList.c.obj
+Test\LinkedListTest.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.obj
+.PHONY : Test\LinkedListTest.c.obj
 
-MagicCardsSingleLinkedCircularList.i: MagicCardsSingleLinkedCircularList.c.i
+Test\LinkedListTest.i: Test\LinkedListTest.c.i
 
-.PHONY : MagicCardsSingleLinkedCircularList.i
+.PHONY : Test\LinkedListTest.i
 
 # target to preprocess a source file
-MagicCardsSingleLinkedCircularList.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.i
-.PHONY : MagicCardsSingleLinkedCircularList.c.i
+Test\LinkedListTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.i
+.PHONY : Test\LinkedListTest.c.i
 
-MagicCardsSingleLinkedCircularList.s: MagicCardsSingleLinkedCircularList.c.s
+Test\LinkedListTest.s: Test\LinkedListTest.c.s
 
-.PHONY : MagicCardsSingleLinkedCircularList.s
+.PHONY : Test\LinkedListTest.s
 
 # target to generate assembly for a file
-MagicCardsSingleLinkedCircularList.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.s
-.PHONY : MagicCardsSingleLinkedCircularList.c.s
+Test\LinkedListTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\LinkedListTest.c.s
+.PHONY : Test\LinkedListTest.c.s
 
-ReversePolishNotationCalculator.obj: ReversePolishNotationCalculator.c.obj
+Test\MagicCardsSingleLinkedCircularListTest.obj: Test\MagicCardsSingleLinkedCircularListTest.c.obj
 
-.PHONY : ReversePolishNotationCalculator.obj
+.PHONY : Test\MagicCardsSingleLinkedCircularListTest.obj
 
 # target to build an object file
-ReversePolishNotationCalculator.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.obj
-.PHONY : ReversePolishNotationCalculator.c.obj
+Test\MagicCardsSingleLinkedCircularListTest.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.obj
+.PHONY : Test\MagicCardsSingleLinkedCircularListTest.c.obj
 
-ReversePolishNotationCalculator.i: ReversePolishNotationCalculator.c.i
+Test\MagicCardsSingleLinkedCircularListTest.i: Test\MagicCardsSingleLinkedCircularListTest.c.i
 
-.PHONY : ReversePolishNotationCalculator.i
+.PHONY : Test\MagicCardsSingleLinkedCircularListTest.i
 
 # target to preprocess a source file
-ReversePolishNotationCalculator.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.i
-.PHONY : ReversePolishNotationCalculator.c.i
+Test\MagicCardsSingleLinkedCircularListTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.i
+.PHONY : Test\MagicCardsSingleLinkedCircularListTest.c.i
 
-ReversePolishNotationCalculator.s: ReversePolishNotationCalculator.c.s
+Test\MagicCardsSingleLinkedCircularListTest.s: Test\MagicCardsSingleLinkedCircularListTest.c.s
 
-.PHONY : ReversePolishNotationCalculator.s
+.PHONY : Test\MagicCardsSingleLinkedCircularListTest.s
 
 # target to generate assembly for a file
-ReversePolishNotationCalculator.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.s
-.PHONY : ReversePolishNotationCalculator.c.s
+Test\MagicCardsSingleLinkedCircularListTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.s
+.PHONY : Test\MagicCardsSingleLinkedCircularListTest.c.s
 
-SequenceStackTest.obj: SequenceStackTest.c.obj
+Test\SequenceStackTest.obj: Test\SequenceStackTest.c.obj
 
-.PHONY : SequenceStackTest.obj
+.PHONY : Test\SequenceStackTest.obj
 
 # target to build an object file
-SequenceStackTest.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.obj
-.PHONY : SequenceStackTest.c.obj
+Test\SequenceStackTest.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.obj
+.PHONY : Test\SequenceStackTest.c.obj
 
-SequenceStackTest.i: SequenceStackTest.c.i
+Test\SequenceStackTest.i: Test\SequenceStackTest.c.i
 
-.PHONY : SequenceStackTest.i
-
-# target to preprocess a source file
-SequenceStackTest.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.i
-.PHONY : SequenceStackTest.c.i
-
-SequenceStackTest.s: SequenceStackTest.c.s
-
-.PHONY : SequenceStackTest.s
-
-# target to generate assembly for a file
-SequenceStackTest.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.s
-.PHONY : SequenceStackTest.c.s
-
-Stack.obj: Stack.c.obj
-
-.PHONY : Stack.obj
-
-# target to build an object file
-Stack.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.obj
-.PHONY : Stack.c.obj
-
-Stack.i: Stack.c.i
-
-.PHONY : Stack.i
+.PHONY : Test\SequenceStackTest.i
 
 # target to preprocess a source file
-Stack.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.i
-.PHONY : Stack.c.i
+Test\SequenceStackTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.i
+.PHONY : Test\SequenceStackTest.c.i
 
-Stack.s: Stack.c.s
+Test\SequenceStackTest.s: Test\SequenceStackTest.c.s
 
-.PHONY : Stack.s
+.PHONY : Test\SequenceStackTest.s
 
 # target to generate assembly for a file
-Stack.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.s
-.PHONY : Stack.c.s
+Test\SequenceStackTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.s
+.PHONY : Test\SequenceStackTest.c.s
 
 main.obj: main.c.obj
 
@@ -435,33 +516,42 @@ help:
 	@echo ... Algorithm/EightQueensPuzzle.obj
 	@echo ... Algorithm/EightQueensPuzzle.i
 	@echo ... Algorithm/EightQueensPuzzle.s
+	@echo ... Algorithm/KnuthMorrisPrattAlgorithm.obj
+	@echo ... Algorithm/KnuthMorrisPrattAlgorithm.i
+	@echo ... Algorithm/KnuthMorrisPrattAlgorithm.s
+	@echo ... Algorithm/LatinSquareSingleLinkedCircularList.obj
+	@echo ... Algorithm/LatinSquareSingleLinkedCircularList.i
+	@echo ... Algorithm/LatinSquareSingleLinkedCircularList.s
+	@echo ... Algorithm/MagicCards.obj
+	@echo ... Algorithm/MagicCards.i
+	@echo ... Algorithm/MagicCards.s
+	@echo ... Algorithm/MagicCardsSingleLinkedCircularList.obj
+	@echo ... Algorithm/MagicCardsSingleLinkedCircularList.i
+	@echo ... Algorithm/MagicCardsSingleLinkedCircularList.s
+	@echo ... Algorithm/ReversePolishNotationCalculator.obj
+	@echo ... Algorithm/ReversePolishNotationCalculator.i
+	@echo ... Algorithm/ReversePolishNotationCalculator.s
 	@echo ... Commons/Show.obj
 	@echo ... Commons/Show.i
 	@echo ... Commons/Show.s
-	@echo ... LatinSquareSingleLinkedCircularList.obj
-	@echo ... LatinSquareSingleLinkedCircularList.i
-	@echo ... LatinSquareSingleLinkedCircularList.s
-	@echo ... LinkList.obj
-	@echo ... LinkList.i
-	@echo ... LinkList.s
-	@echo ... LinkedListTest.obj
-	@echo ... LinkedListTest.i
-	@echo ... LinkedListTest.s
-	@echo ... MagicCards.obj
-	@echo ... MagicCards.i
-	@echo ... MagicCards.s
-	@echo ... MagicCardsSingleLinkedCircularList.obj
-	@echo ... MagicCardsSingleLinkedCircularList.i
-	@echo ... MagicCardsSingleLinkedCircularList.s
-	@echo ... ReversePolishNotationCalculator.obj
-	@echo ... ReversePolishNotationCalculator.i
-	@echo ... ReversePolishNotationCalculator.s
-	@echo ... SequenceStackTest.obj
-	@echo ... SequenceStackTest.i
-	@echo ... SequenceStackTest.s
-	@echo ... Stack.obj
-	@echo ... Stack.i
-	@echo ... Stack.s
+	@echo ... DataStructure/LinkList.obj
+	@echo ... DataStructure/LinkList.i
+	@echo ... DataStructure/LinkList.s
+	@echo ... DataStructure/Stack.obj
+	@echo ... DataStructure/Stack.i
+	@echo ... DataStructure/Stack.s
+	@echo ... Test/EightQueensPuzzleTest.obj
+	@echo ... Test/EightQueensPuzzleTest.i
+	@echo ... Test/EightQueensPuzzleTest.s
+	@echo ... Test/LinkedListTest.obj
+	@echo ... Test/LinkedListTest.i
+	@echo ... Test/LinkedListTest.s
+	@echo ... Test/MagicCardsSingleLinkedCircularListTest.obj
+	@echo ... Test/MagicCardsSingleLinkedCircularListTest.i
+	@echo ... Test/MagicCardsSingleLinkedCircularListTest.s
+	@echo ... Test/SequenceStackTest.obj
+	@echo ... Test/SequenceStackTest.i
+	@echo ... Test/SequenceStackTest.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

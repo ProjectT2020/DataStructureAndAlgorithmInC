@@ -90,58 +90,76 @@
 		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/EightQueensPuzzle.h">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/KnuthMorrisPrattAlgorithm.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/KnuthMorrisPrattAlgorithm.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/LatinSquareSingleLinkedCircularList.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/LatinSquareSingleLinkedCircularList.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCards.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCards.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCardsSingleLinkedCircularList.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCardsSingleLinkedCircularList.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/ReversePolishNotationCalculator.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/ReversePolishNotationCalculator.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
 		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Commons/Show.c">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
 		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Commons/Show.h">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LatinSquareSingleLinkedCircularList.c">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/DataStructure/LinkList.c">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LatinSquareSingleLinkedCircularList.h">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/DataStructure/LinkList.h">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LinkList.c">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/DataStructure/Stack.c">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LinkList.h">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/DataStructure/Stack.h">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LinkedListTest.c">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/EightQueensPuzzleTest.c">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LinkedListTest.h">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/EightQueensPuzzleTest.h">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/MagicCards.c">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/LinkedListTest.c">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/MagicCards.h">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/LinkedListTest.h">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/MagicCardsSingleLinkedCircularList.c">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/MagicCardsSingleLinkedCircularListTest.c">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/MagicCardsSingleLinkedCircularList.h">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/MagicCardsSingleLinkedCircularListTest.h">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.c">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/SequenceStackTest.c">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.h">
-			<Option target="DataStructureAndAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/SequenceStackTest.c">
-			<Option target="DataStructureAndAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/SequenceStackTest.h">
-			<Option target="DataStructureAndAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Stack.c">
-			<Option target="DataStructureAndAlgorithm"/>
-		</Unit>
-		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Stack.h">
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/SequenceStackTest.h">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
 		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/main.c">

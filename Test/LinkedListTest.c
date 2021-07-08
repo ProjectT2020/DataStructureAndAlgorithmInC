@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 #include "LinkedListTest.h"
-#include "LinkList.h"
+#include "../DataStructure/LinkList.h"
 
 void linkedGetLastElemTest() {
     printf("how many nodeNum you want?\n");

@@ -5,6 +5,10 @@ CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj: ..\A
 CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj: ..\Algorithm\EightQueensPuzzle.h
 CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj: ..\Commons\Show.h
 
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.obj: ..\Algorithm\MagicCardsSingleLinkedCircularList.c
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.obj: ..\Algorithm\MagicCardsSingleLinkedCircularList.h
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCardsSingleLinkedCircularList.c.obj: ..\LinkList.h
+
 CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj: ..\Commons\Show.c
 CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj: ..\Commons\Show.h
 
@@ -21,10 +25,6 @@ CMakeFiles\DataStructureAndAlgorithm.dir\LinkedListTest.c.obj: ..\LinkedListTest
 
 CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.obj: ..\MagicCards.c
 
-CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.obj: ..\LinkList.h
-CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.obj: ..\MagicCardsSingleLinkedCircularList.c
-CMakeFiles\DataStructureAndAlgorithm.dir\MagicCardsSingleLinkedCircularList.c.obj: ..\MagicCardsSingleLinkedCircularList.h
-
 CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.obj: ..\ReversePolishNotationCalculator.c
 CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.obj: ..\ReversePolishNotationCalculator.h
 CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.obj: ..\Stack.h
@@ -36,13 +36,23 @@ CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.obj: ..\Stack.h
 CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.obj: ..\Stack.c
 CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.obj: ..\Stack.h
 
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.obj: ..\Algorithm\EightQueensPuzzle.h
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.obj: ..\Test\EightQueensPuzzleTest.c
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.obj: ..\Test\EightQueensPuzzleTest.h
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.obj: ..\Algorithm\MagicCardsSingleLinkedCircularList.h
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.obj: ..\Test\MagicCardsSingleLinkedCircularListTest.c
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.obj: ..\Test\MagicCardsSingleLinkedCircularListTest.h
+
 CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\Algorithm\EightQueensPuzzle.h
+CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\Algorithm\MagicCardsSingleLinkedCircularList.h
 CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\LatinSquareSingleLinkedCircularList.h
 CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\LinkList.h
 CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\LinkedListTest.h
 CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\MagicCards.h
-CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\MagicCardsSingleLinkedCircularList.h
 CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\ReversePolishNotationCalculator.h
 CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\SequenceStackTest.h
+CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\Test\EightQueensPuzzleTest.h
+CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\Test\MagicCardsSingleLinkedCircularListTest.h
 CMakeFiles\DataStructureAndAlgorithm.dir\main.c.obj: ..\main.c
 

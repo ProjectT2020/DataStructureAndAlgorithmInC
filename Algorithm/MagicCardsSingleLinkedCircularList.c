@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 #include "MagicCardsSingleLinkedCircularList.h"
-#include "LinkList.h"
+#include "../DataStructure/LinkList.h"
 
 void MagicCardsSingleLinkedCircularList() {
     LinkList cards = SinglyLinkedCircularList_Init(13);

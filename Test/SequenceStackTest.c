@@ -3,7 +3,7 @@
 //
 
 #include "SequenceStackTest.h"
-#include "Stack.h"
+#include "../DataStructure/Stack.h"
 #include <stdio.h>
 #include <stdlib.h>
 

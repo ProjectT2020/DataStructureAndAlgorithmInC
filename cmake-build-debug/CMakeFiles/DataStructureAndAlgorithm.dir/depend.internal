@@ -5,6 +5,10 @@ CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/EightQueensPuzzle.c.obj
  D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/EightQueensPuzzle.c
  D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/EightQueensPuzzle.h
  D:/Repository/Projects/DataStructureAndAlgorithm/Commons/Show.h
+CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/MagicCardsSingleLinkedCircularList.c.obj
+ D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCardsSingleLinkedCircularList.c
+ D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCardsSingleLinkedCircularList.h
+ D:/Repository/Projects/DataStructureAndAlgorithm/LinkList.h
 CMakeFiles/DataStructureAndAlgorithm.dir/Commons/Show.c.obj
  D:/Repository/Projects/DataStructureAndAlgorithm/Commons/Show.c
  D:/Repository/Projects/DataStructureAndAlgorithm/Commons/Show.h
@@ -21,10 +25,6 @@ CMakeFiles/DataStructureAndAlgorithm.dir/LinkedListTest.c.obj
  D:/Repository/Projects/DataStructureAndAlgorithm/LinkedListTest.h
 CMakeFiles/DataStructureAndAlgorithm.dir/MagicCards.c.obj
  D:/Repository/Projects/DataStructureAndAlgorithm/MagicCards.c
-CMakeFiles/DataStructureAndAlgorithm.dir/MagicCardsSingleLinkedCircularList.c.obj
- D:/Repository/Projects/DataStructureAndAlgorithm/LinkList.h
- D:/Repository/Projects/DataStructureAndAlgorithm/MagicCardsSingleLinkedCircularList.c
- D:/Repository/Projects/DataStructureAndAlgorithm/MagicCardsSingleLinkedCircularList.h
 CMakeFiles/DataStructureAndAlgorithm.dir/ReversePolishNotationCalculator.c.obj
  D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.c
  D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.h
@@ -36,13 +36,23 @@ CMakeFiles/DataStructureAndAlgorithm.dir/SequenceStackTest.c.obj
 CMakeFiles/DataStructureAndAlgorithm.dir/Stack.c.obj
  D:/Repository/Projects/DataStructureAndAlgorithm/Stack.c
  D:/Repository/Projects/DataStructureAndAlgorithm/Stack.h
+CMakeFiles/DataStructureAndAlgorithm.dir/Test/EightQueensPuzzleTest.c.obj
+ D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/EightQueensPuzzle.h
+ D:/Repository/Projects/DataStructureAndAlgorithm/Test/EightQueensPuzzleTest.c
+ D:/Repository/Projects/DataStructureAndAlgorithm/Test/EightQueensPuzzleTest.h
+CMakeFiles/DataStructureAndAlgorithm.dir/Test/MagicCardsSingleLinkedCircularListTest.c.obj
+ D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCardsSingleLinkedCircularList.h
+ D:/Repository/Projects/DataStructureAndAlgorithm/Test/MagicCardsSingleLinkedCircularListTest.c
+ D:/Repository/Projects/DataStructureAndAlgorithm/Test/MagicCardsSingleLinkedCircularListTest.h
 CMakeFiles/DataStructureAndAlgorithm.dir/main.c.obj
  D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/EightQueensPuzzle.h
+ D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCardsSingleLinkedCircularList.h
  D:/Repository/Projects/DataStructureAndAlgorithm/LatinSquareSingleLinkedCircularList.h
  D:/Repository/Projects/DataStructureAndAlgorithm/LinkList.h
  D:/Repository/Projects/DataStructureAndAlgorithm/LinkedListTest.h
  D:/Repository/Projects/DataStructureAndAlgorithm/MagicCards.h
- D:/Repository/Projects/DataStructureAndAlgorithm/MagicCardsSingleLinkedCircularList.h
  D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.h
  D:/Repository/Projects/DataStructureAndAlgorithm/SequenceStackTest.h
+ D:/Repository/Projects/DataStructureAndAlgorithm/Test/EightQueensPuzzleTest.h
+ D:/Repository/Projects/DataStructureAndAlgorithm/Test/MagicCardsSingleLinkedCircularListTest.h
  D:/Repository/Projects/DataStructureAndAlgorithm/main.c
