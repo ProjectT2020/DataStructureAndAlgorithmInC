@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/EightQueensPuzzle.c" "D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/EightQueensPuzzle.c.obj"
+  "D:/Repository/Projects/DataStructureAndAlgorithm/Commons/Show.c" "D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithm.dir/Commons/Show.c.obj"
   "D:/Repository/Projects/DataStructureAndAlgorithm/LatinSquareSingleLinkedCircularList.c" "D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithm.dir/LatinSquareSingleLinkedCircularList.c.obj"
   "D:/Repository/Projects/DataStructureAndAlgorithm/LinkList.c" "D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithm.dir/LinkList.c.obj"
   "D:/Repository/Projects/DataStructureAndAlgorithm/LinkedListTest.c" "D:/Repository/Projects/DataStructureAndAlgorithm/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithm.dir/LinkedListTest.c.obj"

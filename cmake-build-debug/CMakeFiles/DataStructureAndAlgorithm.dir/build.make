@@ -231,6 +231,44 @@ CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.s: cmake_force
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\SequenceStackTest.c
 <<
 
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj: ..\Algorithm\EightQueensPuzzle.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/EightQueensPuzzle.c.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\EightQueensPuzzle.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/EightQueensPuzzle.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\EightQueensPuzzle.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/EightQueensPuzzle.c.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\EightQueensPuzzle.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj: ..\Commons\Show.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Commons/Show.c.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Commons\Show.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Commons/Show.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Commons\Show.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Commons/Show.c.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Commons\Show.c
+<<
+
 # Object files for target DataStructureAndAlgorithm
 DataStructureAndAlgorithm_OBJECTS = \
 "CMakeFiles\DataStructureAndAlgorithm.dir\MagicCards.c.obj" \
@@ -241,7 +279,9 @@ DataStructureAndAlgorithm_OBJECTS = \
 "CMakeFiles\DataStructureAndAlgorithm.dir\LatinSquareSingleLinkedCircularList.c.obj" \
 "CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.obj" \
 "CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.obj" \
-"CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.obj"
+"CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj"
 
 # External object files for target DataStructureAndAlgorithm
 DataStructureAndAlgorithm_EXTERNAL_OBJECTS =
@@ -255,9 +295,11 @@ DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\LatinSqu
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Stack.c.obj
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\ReversePolishNotationCalculator.c.obj
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\SequenceStackTest.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\build.make
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking C executable DataStructureAndAlgorithm.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking C executable DataStructureAndAlgorithm.exe"
 	"D:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\DataStructureAndAlgorithm.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\DataStructureAndAlgorithm.dir\objects1.rsp @<<
  /out:DataStructureAndAlgorithm.exe /implib:DataStructureAndAlgorithm.lib /pdb:D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\DataStructureAndAlgorithm.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

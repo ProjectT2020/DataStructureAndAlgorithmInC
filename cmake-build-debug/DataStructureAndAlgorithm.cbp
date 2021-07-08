@@ -84,6 +84,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/EightQueensPuzzle.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/EightQueensPuzzle.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Commons/Show.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Commons/Show.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
 		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/LatinSquareSingleLinkedCircularList.c">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>

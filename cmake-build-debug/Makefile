@@ -126,6 +126,60 @@ DataStructureAndAlgorithm\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\build
 .PHONY : DataStructureAndAlgorithm\fast
 
+Algorithm\EightQueensPuzzle.obj: Algorithm\EightQueensPuzzle.c.obj
+
+.PHONY : Algorithm\EightQueensPuzzle.obj
+
+# target to build an object file
+Algorithm\EightQueensPuzzle.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.obj
+.PHONY : Algorithm\EightQueensPuzzle.c.obj
+
+Algorithm\EightQueensPuzzle.i: Algorithm\EightQueensPuzzle.c.i
+
+.PHONY : Algorithm\EightQueensPuzzle.i
+
+# target to preprocess a source file
+Algorithm\EightQueensPuzzle.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.i
+.PHONY : Algorithm\EightQueensPuzzle.c.i
+
+Algorithm\EightQueensPuzzle.s: Algorithm\EightQueensPuzzle.c.s
+
+.PHONY : Algorithm\EightQueensPuzzle.s
+
+# target to generate assembly for a file
+Algorithm\EightQueensPuzzle.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\EightQueensPuzzle.c.s
+.PHONY : Algorithm\EightQueensPuzzle.c.s
+
+Commons\Show.obj: Commons\Show.c.obj
+
+.PHONY : Commons\Show.obj
+
+# target to build an object file
+Commons\Show.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj
+.PHONY : Commons\Show.c.obj
+
+Commons\Show.i: Commons\Show.c.i
+
+.PHONY : Commons\Show.i
+
+# target to preprocess a source file
+Commons\Show.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.i
+.PHONY : Commons\Show.c.i
+
+Commons\Show.s: Commons\Show.c.s
+
+.PHONY : Commons\Show.s
+
+# target to generate assembly for a file
+Commons\Show.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.s
+.PHONY : Commons\Show.c.s
+
 LatinSquareSingleLinkedCircularList.obj: LatinSquareSingleLinkedCircularList.c.obj
 
 .PHONY : LatinSquareSingleLinkedCircularList.obj
@@ -378,6 +432,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DataStructureAndAlgorithm
+	@echo ... Algorithm/EightQueensPuzzle.obj
+	@echo ... Algorithm/EightQueensPuzzle.i
+	@echo ... Algorithm/EightQueensPuzzle.s
+	@echo ... Commons/Show.obj
+	@echo ... Commons/Show.i
+	@echo ... Commons/Show.s
 	@echo ... LatinSquareSingleLinkedCircularList.obj
 	@echo ... LatinSquareSingleLinkedCircularList.i
 	@echo ... LatinSquareSingleLinkedCircularList.s

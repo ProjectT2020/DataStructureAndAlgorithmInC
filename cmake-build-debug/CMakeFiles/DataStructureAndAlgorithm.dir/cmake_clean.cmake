@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/EightQueensPuzzle.c.obj"
+  "CMakeFiles/DataStructureAndAlgorithm.dir/Commons/Show.c.obj"
   "CMakeFiles/DataStructureAndAlgorithm.dir/LatinSquareSingleLinkedCircularList.c.obj"
   "CMakeFiles/DataStructureAndAlgorithm.dir/LinkList.c.obj"
   "CMakeFiles/DataStructureAndAlgorithm.dir/LinkedListTest.c.obj"
