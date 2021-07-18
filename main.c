@@ -9,13 +9,14 @@
 #include "Algorithm/EightQueensPuzzle.h"
 #include "Test/EightQueensPuzzleTest.h"
 #include "Test/MagicCardsSingleLinkedCircularListTest.h"
+#include "Test/SubstringSearchTest/SubstringSearchTest.h"
+#include "Test/StringTest.h"
 //
 // Created by temTeng on 2021/7/7.
 //
 
 int main() {
-
-    MagicCardsSingleLinkedCircularListTest();
+    partialMatchTableTest();
 
     return 0;
 }

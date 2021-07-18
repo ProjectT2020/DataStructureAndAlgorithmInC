@@ -326,6 +326,82 @@ CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.s
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\KnuthMorrisPrattAlgorithm.c
 <<
 
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.obj: ..\Algorithm\BruteForceSubstringSearch.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/BruteForceSubstringSearch.c.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\BruteForceSubstringSearch.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/BruteForceSubstringSearch.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\BruteForceSubstringSearch.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/BruteForceSubstringSearch.c.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\BruteForceSubstringSearch.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.obj: ..\Algorithm\SubstringSearch\SubstringSearch.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/SubstringSearch/SubstringSearch.c.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\SubstringSearch\SubstringSearch.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/SubstringSearch/SubstringSearch.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\SubstringSearch\SubstringSearch.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Algorithm/SubstringSearch/SubstringSearch.c.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Algorithm\SubstringSearch\SubstringSearch.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.obj: ..\Test\SubstringSearchTest\SubstringSearchTest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Test/SubstringSearchTest/SubstringSearchTest.c.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Test\SubstringSearchTest\SubstringSearchTest.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Test/SubstringSearchTest/SubstringSearchTest.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Test\SubstringSearchTest\SubstringSearchTest.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Test/SubstringSearchTest/SubstringSearchTest.c.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Test\SubstringSearchTest\SubstringSearchTest.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.obj: CMakeFiles\DataStructureAndAlgorithm.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.obj: ..\Test\StringTest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/DataStructureAndAlgorithm.dir/Test/StringTest.c.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.obj /FdCMakeFiles\DataStructureAndAlgorithm.dir\ /FS -c D:\Repository\Projects\DataStructureAndAlgorithm\Test\StringTest.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructureAndAlgorithm.dir/Test/StringTest.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repository\Projects\DataStructureAndAlgorithm\Test\StringTest.c
+<<
+
+CMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructureAndAlgorithm.dir/Test/StringTest.c.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.s /c D:\Repository\Projects\DataStructureAndAlgorithm\Test\StringTest.c
+<<
+
 # Object files for target DataStructureAndAlgorithm
 DataStructureAndAlgorithm_OBJECTS = \
 "CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\MagicCards.c.obj" \
@@ -341,7 +417,11 @@ DataStructureAndAlgorithm_OBJECTS = \
 "CMakeFiles\DataStructureAndAlgorithm.dir\Commons\Show.c.obj" \
 "CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.obj" \
 "CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.obj" \
-"CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.obj"
+"CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.obj" \
+"CMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.obj"
 
 # External object files for target DataStructureAndAlgorithm
 DataStructureAndAlgorithm_EXTERNAL_OBJECTS =
@@ -360,9 +440,13 @@ DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Commons\
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Test\EightQueensPuzzleTest.c.obj
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Test\MagicCardsSingleLinkedCircularListTest.c.obj
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\KnuthMorrisPrattAlgorithm.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.obj
+DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.obj
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\build.make
 DataStructureAndAlgorithm.exe: CMakeFiles\DataStructureAndAlgorithm.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking C executable DataStructureAndAlgorithm.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking C executable DataStructureAndAlgorithm.exe"
 	"D:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\DataStructureAndAlgorithm.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\DataStructureAndAlgorithm.dir\objects1.rsp @<<
  /out:DataStructureAndAlgorithm.exe /implib:DataStructureAndAlgorithm.lib /pdb:D:\Repository\Projects\DataStructureAndAlgorithm\cmake-build-debug\DataStructureAndAlgorithm.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

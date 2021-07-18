@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/BruteForceSubstringSearch.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/BruteForceSubstringSearch.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
 		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/EightQueensPuzzle.c">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
@@ -118,6 +124,12 @@
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
 		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/ReversePolishNotationCalculator.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/SubstringSearch/SubstringSearch.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/SubstringSearch/SubstringSearch.h">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
 		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Commons/Show.c">
@@ -160,6 +172,18 @@
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
 		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/SequenceStackTest.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/StringTest.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/StringTest.h">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/SubstringSearchTest/SubstringSearchTest.c">
+			<Option target="DataStructureAndAlgorithm"/>
+		</Unit>
+		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/Test/SubstringSearchTest/SubstringSearchTest.h">
 			<Option target="DataStructureAndAlgorithm"/>
 		</Unit>
 		<Unit filename="D:/Repository/Projects/DataStructureAndAlgorithm/main.c">

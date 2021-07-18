@@ -8,51 +8,53 @@
 
 D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/EightQueensPuzzle.h
 
+D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/LatinSquareSingleLinkedCircularList.h
+
+D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCards.h
+
 D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCardsSingleLinkedCircularList.h
 
-D:/Repository/Projects/DataStructureAndAlgorithm/LatinSquareSingleLinkedCircularList.h
+D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/ReversePolishNotationCalculator.h
 
-D:/Repository/Projects/DataStructureAndAlgorithm/LinkList.h
-
-D:/Repository/Projects/DataStructureAndAlgorithm/LinkedListTest.h
-
-D:/Repository/Projects/DataStructureAndAlgorithm/MagicCards.h
-
-D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.h
-
-D:/Repository/Projects/DataStructureAndAlgorithm/SequenceStackTest.h
+D:/Repository/Projects/DataStructureAndAlgorithm/DataStructure/LinkList.h
 
 D:/Repository/Projects/DataStructureAndAlgorithm/Test/EightQueensPuzzleTest.h
 
-D:/Repository/Projects/DataStructureAndAlgorithm/Test/MagicCardsSingleLinkedCircularListTest.c
-MagicCardsSingleLinkedCircularListTest.h
-D:/Repository/Projects/DataStructureAndAlgorithm/Test/MagicCardsSingleLinkedCircularListTest.h
-../Algorithm/MagicCardsSingleLinkedCircularList.h
-D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCardsSingleLinkedCircularList.h
+D:/Repository/Projects/DataStructureAndAlgorithm/Test/LinkedListTest.h
 
 D:/Repository/Projects/DataStructureAndAlgorithm/Test/MagicCardsSingleLinkedCircularListTest.h
+
+D:/Repository/Projects/DataStructureAndAlgorithm/Test/SequenceStackTest.h
+
+D:/Repository/Projects/DataStructureAndAlgorithm/Test/StringTest.h
+
+D:/Repository/Projects/DataStructureAndAlgorithm/Test/SubstringSearchTest/SubstringSearchTest.h
 
 D:/Repository/Projects/DataStructureAndAlgorithm/main.c
 stdio.h
 -
-LinkedListTest.h
-D:/Repository/Projects/DataStructureAndAlgorithm/LinkedListTest.h
-LinkList.h
-D:/Repository/Projects/DataStructureAndAlgorithm/LinkList.h
-MagicCards.h
-D:/Repository/Projects/DataStructureAndAlgorithm/MagicCards.h
+Test/LinkedListTest.h
+D:/Repository/Projects/DataStructureAndAlgorithm/Test/LinkedListTest.h
+DataStructure/LinkList.h
+D:/Repository/Projects/DataStructureAndAlgorithm/DataStructure/LinkList.h
+Algorithm/MagicCards.h
+D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCards.h
 Algorithm/MagicCardsSingleLinkedCircularList.h
 D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/MagicCardsSingleLinkedCircularList.h
-LatinSquareSingleLinkedCircularList.h
-D:/Repository/Projects/DataStructureAndAlgorithm/LatinSquareSingleLinkedCircularList.h
-SequenceStackTest.h
-D:/Repository/Projects/DataStructureAndAlgorithm/SequenceStackTest.h
-ReversePolishNotationCalculator.h
-D:/Repository/Projects/DataStructureAndAlgorithm/ReversePolishNotationCalculator.h
+Algorithm/LatinSquareSingleLinkedCircularList.h
+D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/LatinSquareSingleLinkedCircularList.h
+Test/SequenceStackTest.h
+D:/Repository/Projects/DataStructureAndAlgorithm/Test/SequenceStackTest.h
+Algorithm/ReversePolishNotationCalculator.h
+D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/ReversePolishNotationCalculator.h
 Algorithm/EightQueensPuzzle.h
 D:/Repository/Projects/DataStructureAndAlgorithm/Algorithm/EightQueensPuzzle.h
 Test/EightQueensPuzzleTest.h
 D:/Repository/Projects/DataStructureAndAlgorithm/Test/EightQueensPuzzleTest.h
 Test/MagicCardsSingleLinkedCircularListTest.h
 D:/Repository/Projects/DataStructureAndAlgorithm/Test/MagicCardsSingleLinkedCircularListTest.h
+Test/SubstringSearchTest/SubstringSearchTest.h
+D:/Repository/Projects/DataStructureAndAlgorithm/Test/SubstringSearchTest/SubstringSearchTest.h
+Test/StringTest.h
+D:/Repository/Projects/DataStructureAndAlgorithm/Test/StringTest.h
 

@@ -126,6 +126,33 @@ DataStructureAndAlgorithm\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\build
 .PHONY : DataStructureAndAlgorithm\fast
 
+Algorithm\BruteForceSubstringSearch.obj: Algorithm\BruteForceSubstringSearch.c.obj
+
+.PHONY : Algorithm\BruteForceSubstringSearch.obj
+
+# target to build an object file
+Algorithm\BruteForceSubstringSearch.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.obj
+.PHONY : Algorithm\BruteForceSubstringSearch.c.obj
+
+Algorithm\BruteForceSubstringSearch.i: Algorithm\BruteForceSubstringSearch.c.i
+
+.PHONY : Algorithm\BruteForceSubstringSearch.i
+
+# target to preprocess a source file
+Algorithm\BruteForceSubstringSearch.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.i
+.PHONY : Algorithm\BruteForceSubstringSearch.c.i
+
+Algorithm\BruteForceSubstringSearch.s: Algorithm\BruteForceSubstringSearch.c.s
+
+.PHONY : Algorithm\BruteForceSubstringSearch.s
+
+# target to generate assembly for a file
+Algorithm\BruteForceSubstringSearch.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\BruteForceSubstringSearch.c.s
+.PHONY : Algorithm\BruteForceSubstringSearch.c.s
+
 Algorithm\EightQueensPuzzle.obj: Algorithm\EightQueensPuzzle.c.obj
 
 .PHONY : Algorithm\EightQueensPuzzle.obj
@@ -287,6 +314,33 @@ Algorithm\ReversePolishNotationCalculator.s: Algorithm\ReversePolishNotationCalc
 Algorithm\ReversePolishNotationCalculator.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\ReversePolishNotationCalculator.c.s
 .PHONY : Algorithm\ReversePolishNotationCalculator.c.s
+
+Algorithm\SubstringSearch\SubstringSearch.obj: Algorithm\SubstringSearch\SubstringSearch.c.obj
+
+.PHONY : Algorithm\SubstringSearch\SubstringSearch.obj
+
+# target to build an object file
+Algorithm\SubstringSearch\SubstringSearch.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.obj
+.PHONY : Algorithm\SubstringSearch\SubstringSearch.c.obj
+
+Algorithm\SubstringSearch\SubstringSearch.i: Algorithm\SubstringSearch\SubstringSearch.c.i
+
+.PHONY : Algorithm\SubstringSearch\SubstringSearch.i
+
+# target to preprocess a source file
+Algorithm\SubstringSearch\SubstringSearch.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.i
+.PHONY : Algorithm\SubstringSearch\SubstringSearch.c.i
+
+Algorithm\SubstringSearch\SubstringSearch.s: Algorithm\SubstringSearch\SubstringSearch.c.s
+
+.PHONY : Algorithm\SubstringSearch\SubstringSearch.s
+
+# target to generate assembly for a file
+Algorithm\SubstringSearch\SubstringSearch.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Algorithm\SubstringSearch\SubstringSearch.c.s
+.PHONY : Algorithm\SubstringSearch\SubstringSearch.c.s
 
 Commons\Show.obj: Commons\Show.c.obj
 
@@ -477,6 +531,60 @@ Test\SequenceStackTest.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\SequenceStackTest.c.s
 .PHONY : Test\SequenceStackTest.c.s
 
+Test\StringTest.obj: Test\StringTest.c.obj
+
+.PHONY : Test\StringTest.obj
+
+# target to build an object file
+Test\StringTest.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.obj
+.PHONY : Test\StringTest.c.obj
+
+Test\StringTest.i: Test\StringTest.c.i
+
+.PHONY : Test\StringTest.i
+
+# target to preprocess a source file
+Test\StringTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.i
+.PHONY : Test\StringTest.c.i
+
+Test\StringTest.s: Test\StringTest.c.s
+
+.PHONY : Test\StringTest.s
+
+# target to generate assembly for a file
+Test\StringTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\StringTest.c.s
+.PHONY : Test\StringTest.c.s
+
+Test\SubstringSearchTest\SubstringSearchTest.obj: Test\SubstringSearchTest\SubstringSearchTest.c.obj
+
+.PHONY : Test\SubstringSearchTest\SubstringSearchTest.obj
+
+# target to build an object file
+Test\SubstringSearchTest\SubstringSearchTest.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.obj
+.PHONY : Test\SubstringSearchTest\SubstringSearchTest.c.obj
+
+Test\SubstringSearchTest\SubstringSearchTest.i: Test\SubstringSearchTest\SubstringSearchTest.c.i
+
+.PHONY : Test\SubstringSearchTest\SubstringSearchTest.i
+
+# target to preprocess a source file
+Test\SubstringSearchTest\SubstringSearchTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.i
+.PHONY : Test\SubstringSearchTest\SubstringSearchTest.c.i
+
+Test\SubstringSearchTest\SubstringSearchTest.s: Test\SubstringSearchTest\SubstringSearchTest.c.s
+
+.PHONY : Test\SubstringSearchTest\SubstringSearchTest.s
+
+# target to generate assembly for a file
+Test\SubstringSearchTest\SubstringSearchTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithm.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithm.dir\Test\SubstringSearchTest\SubstringSearchTest.c.s
+.PHONY : Test\SubstringSearchTest\SubstringSearchTest.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -513,6 +621,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DataStructureAndAlgorithm
+	@echo ... Algorithm/BruteForceSubstringSearch.obj
+	@echo ... Algorithm/BruteForceSubstringSearch.i
+	@echo ... Algorithm/BruteForceSubstringSearch.s
 	@echo ... Algorithm/EightQueensPuzzle.obj
 	@echo ... Algorithm/EightQueensPuzzle.i
 	@echo ... Algorithm/EightQueensPuzzle.s
@@ -531,6 +642,9 @@ help:
 	@echo ... Algorithm/ReversePolishNotationCalculator.obj
 	@echo ... Algorithm/ReversePolishNotationCalculator.i
 	@echo ... Algorithm/ReversePolishNotationCalculator.s
+	@echo ... Algorithm/SubstringSearch/SubstringSearch.obj
+	@echo ... Algorithm/SubstringSearch/SubstringSearch.i
+	@echo ... Algorithm/SubstringSearch/SubstringSearch.s
 	@echo ... Commons/Show.obj
 	@echo ... Commons/Show.i
 	@echo ... Commons/Show.s
@@ -552,6 +666,12 @@ help:
 	@echo ... Test/SequenceStackTest.obj
 	@echo ... Test/SequenceStackTest.i
 	@echo ... Test/SequenceStackTest.s
+	@echo ... Test/StringTest.obj
+	@echo ... Test/StringTest.i
+	@echo ... Test/StringTest.s
+	@echo ... Test/SubstringSearchTest/SubstringSearchTest.obj
+	@echo ... Test/SubstringSearchTest/SubstringSearchTest.i
+	@echo ... Test/SubstringSearchTest/SubstringSearchTest.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
